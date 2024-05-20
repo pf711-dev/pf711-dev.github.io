@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>成长 on pf711</title>
-    <link>https://pf711-dev.github.io/tags/%E6%88%90%E9%95%BF/</link>
+    <link>http://localhost:1313/tags/%E6%88%90%E9%95%BF/</link>
     <description>Recent content in 成长 on pf711</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 07 Apr 2024 00:44:49 +0800</lastBuildDate>
-    <atom:link href="https://pf711-dev.github.io/tags/%E6%88%90%E9%95%BF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%88%90%E9%95%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>工匠思维</title>
-      <link>https://pf711-dev.github.io/posts/%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4/</link>
+      <link>http://localhost:1313/posts/%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4/</link>
       <pubDate>Sun, 07 Apr 2024 00:44:49 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4/</guid>
+      <guid>http://localhost:1313/posts/%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4/</guid>
       <description>激情是精通的副产品。 大家可能都听过一句非常流行的话：选择大于努力。乍一听，似乎非常合理，也许每个人还都公开或者私下里说过或有过这样的想法：「</description>
     </item>
   </channel>
