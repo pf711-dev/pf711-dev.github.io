@@ -285,13 +285,13 @@ nav.navigation a.button {
 }
 
 #list-page .item {
-  margin: 12px 0;
+  margin: 13px 0;
 }
 
 #list-page .title {
   display: inline-block;
   color: #404040;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
   margin: 0;
   width: 80%;
