@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pf711&#39;Blog</title>
+    <title>pf711&#39;blog</title>
     <link>https://pf711-dev.github.io/</link>
-    <description>Recent content on pf711&#39;Blog</description>
+    <description>Recent content on pf711&#39;blog</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 18 Jun 2024 12:32:38 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 13:01:56 +0800</lastBuildDate>
     <atom:link href="https://pf711-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>好文推荐 | Consume less, Create more</title>
+      <link>https://pf711-dev.github.io/posts/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90-consume-less-create-more/</link>
+      <pubDate>Wed, 25 Sep 2024 13:01:56 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/posts/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90-consume-less-create-more/</guid>
+      <description>今天，我在整理笔记的时候发现了这篇文章——是关于鼓励人们多去创造的话题——于是我又重读了一遍，发现我之前也写过类似主题的内容——《To Be a C</description>
+    </item>
+    <item>
+      <title>《Keep Going》|保持创造力的 10 个建议</title>
+      <link>https://pf711-dev.github.io/posts/keep-going%E4%BF%9D%E6%8C%81%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84-10-%E4%B8%AA%E5%BB%BA%E8%AE%AE/</link>
+      <pubDate>Sat, 03 Aug 2024 13:01:56 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/posts/keep-going%E4%BF%9D%E6%8C%81%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%84-10-%E4%B8%AA%E5%BB%BA%E8%AE%AE/</guid>
+      <description>How we spend our days is how we spend our lives. 前段时间，我在《找到对自己来说像“玩”一样的工作》这篇文章中曾经分享过 Austin Kleon的两本书——《Steal Like an Arti</description>
+    </item>
     <item>
       <title>如何保持一个精力充沛的状态</title>
       <link>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</link>

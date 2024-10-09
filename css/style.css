@@ -261,18 +261,18 @@ nav.navigation a.button {
   border-radius: 50%;
 }
 
-.profile h1 {
+.profile h1 {    /* 主页 pf711'Blog */
   font-weight: 400;
   letter-spacing: 0px;
-  font-size: 20px;
+  font-size: 18px;
   color: #404040;
   margin-bottom: 0;
   margin-top: 0;
 }
 
 .profile h2 {
-  font-size: 20px;
-  font-weight: 300;
+  font-size: 17px;
+  font-weight: 400;
   color: #757575;
   margin-top: 0;
 }
@@ -288,10 +288,10 @@ nav.navigation a.button {
   margin: 12px 0;
 }
 
-#list-page .title {
+#list-page .title {    /* 首页标题 */
   display: inline-block;
   color: #404040;
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 400;
   margin: 0;
   width: 80%;
@@ -355,9 +355,9 @@ nav.navigation a.button {
   padding: 0 64px;
 }
 
-#single .title {
+#single .title {   /* 文章页标题 */
   text-align: center;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 400;
   line-height: 48px;
 }
@@ -373,11 +373,11 @@ nav.navigation a.button {
   }
 }
 
-#single .tip {
+#single .tip {    /* 文章页副标题 */
   text-align: center;
   color: #8c8c8c;
   margin-top: 18px;
-  font-size: 14px;
+  font-size: 15px;
 }
 #single .tip .split {
   margin: 0 4px;
