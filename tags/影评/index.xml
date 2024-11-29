@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>影评 on pf711&#39;blog</title>
-    <link>https://pf711-dev.github.io/tags/%E5%BD%B1%E8%AF%84/</link>
-    <description>Recent content in 影评 on pf711&#39;blog</description>
+    <title>影评 on pf711&#39;Blog</title>
+    <link>http://localhost:52917/tags/%E5%BD%B1%E8%AF%84/</link>
+    <description>Recent content in 影评 on pf711&#39;Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 27 Sep 2023 13:31:00 +0800</lastBuildDate>
-    <atom:link href="https://pf711-dev.github.io/tags/%E5%BD%B1%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52917/tags/%E5%BD%B1%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《天道》中的救世主是什么，为什么大家会对原著褒贬不一</title>
-      <link>https://pf711-dev.github.io/posts/%E5%A4%A9%E9%81%93%E4%B8%AD%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E4%BC%9A%E5%AF%B9%E5%8E%9F%E8%91%97%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80/</link>
+      <link>http://localhost:52917/posts/%E5%A4%A9%E9%81%93%E4%B8%AD%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E4%BC%9A%E5%AF%B9%E5%8E%9F%E8%91%97%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80/</link>
       <pubDate>Wed, 27 Sep 2023 13:31:00 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E5%A4%A9%E9%81%93%E4%B8%AD%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E4%BC%9A%E5%AF%B9%E5%8E%9F%E8%91%97%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80/</guid>
+      <guid>http://localhost:52917/posts/%E5%A4%A9%E9%81%93%E4%B8%AD%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E4%BC%9A%E5%AF%B9%E5%8E%9F%E8%91%97%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80/</guid>
       <description>所谓的神话只是人们无法解释的事物，当了解了事物的本质之后，神话就会破灭，真相自然就会浮出水面。 昨天闲来无事，想起来之前看过的电视剧《天道》，</description>
     </item>
     <item>
       <title>谈谈《功夫熊猫》的大师成长之路</title>
-      <link>https://pf711-dev.github.io/posts/%E8%B0%88%E8%B0%88%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E7%9A%84%E5%A4%A7%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF/</link>
+      <link>http://localhost:52917/posts/%E8%B0%88%E8%B0%88%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E7%9A%84%E5%A4%A7%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF/</link>
       <pubDate>Fri, 21 Jul 2023 13:52:22 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E8%B0%88%E8%B0%88%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E7%9A%84%E5%A4%A7%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF/</guid>
+      <guid>http://localhost:52917/posts/%E8%B0%88%E8%B0%88%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E7%9A%84%E5%A4%A7%E5%B8%88%E6%88%90%E9%95%BF%E4%B9%8B%E8%B7%AF/</guid>
       <description>昨天看完《功夫熊猫》，一直有一个疑问萦绕着我，那就是“为什么习武多年的盖世五侠都没有打败太郎，而中途转行学习功夫的阿宝却能领悟《神龙秘籍》的</description>
     </item>
   </channel>
