@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>自我觉察 on pf711&#39;Blog</title>
-    <link>http://localhost:54785/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/</link>
+    <link>https://pf711-dev.github.io/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/</link>
     <description>Recent content in 自我觉察 on pf711&#39;Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 14 May 2024 12:49:21 +0800</lastBuildDate>
-    <atom:link href="http://localhost:54785/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pf711-dev.github.io/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To Be a Creator</title>
-      <link>http://localhost:54785/posts/to-be-a-creator/</link>
+      <link>https://pf711-dev.github.io/posts/to-be-a-creator/</link>
       <pubDate>Tue, 14 May 2024 12:49:21 +0800</pubDate>
-      <guid>http://localhost:54785/posts/to-be-a-creator/</guid>
+      <guid>https://pf711-dev.github.io/posts/to-be-a-creator/</guid>
       <description>如果拿放大镜去观察日常中的每件小事——出去吃的饭，搭的车，买的衣服，住的房子，你会发现它们有一个共同点——这些东西都不是我们自己创造的，但是</description>
     </item>
     <item>
       <title>Flow</title>
-      <link>http://localhost:54785/posts/flow/</link>
+      <link>https://pf711-dev.github.io/posts/flow/</link>
       <pubDate>Wed, 13 Dec 2023 13:01:02 +0800</pubDate>
-      <guid>http://localhost:54785/posts/flow/</guid>
+      <guid>https://pf711-dev.github.io/posts/flow/</guid>
       <description>Headspace的正念冥想系列视频[1]中有一个片段：想象着你站在一个马路旁边，马路上车来车往，你只是站在那里一动不动，默默观察它们。 这个</description>
     </item>
     <item>
       <title>真问题，假问题</title>
-      <link>http://localhost:54785/posts/%E7%9C%9F%E9%97%AE%E9%A2%98%E5%81%87%E9%97%AE%E9%A2%98/</link>
+      <link>https://pf711-dev.github.io/posts/%E7%9C%9F%E9%97%AE%E9%A2%98%E5%81%87%E9%97%AE%E9%A2%98/</link>
       <pubDate>Mon, 13 Nov 2023 13:14:11 +0800</pubDate>
-      <guid>http://localhost:54785/posts/%E7%9C%9F%E9%97%AE%E9%A2%98%E5%81%87%E9%97%AE%E9%A2%98/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E7%9C%9F%E9%97%AE%E9%A2%98%E5%81%87%E9%97%AE%E9%A2%98/</guid>
       <description>最近我在练习阅读英文原版书籍，尽管这个过程很曲折，但是现在总算可以不用再中英双语对照着阅读，也算是小有成效。 这件事本身没有什么值得好分享的，</description>
     </item>
     <item>
       <title>两种情绪</title>
-      <link>http://localhost:54785/posts/%E4%B8%A4%E7%A7%8D%E6%83%85%E7%BB%AA/</link>
+      <link>https://pf711-dev.github.io/posts/%E4%B8%A4%E7%A7%8D%E6%83%85%E7%BB%AA/</link>
       <pubDate>Wed, 30 Aug 2023 13:42:25 +0800</pubDate>
-      <guid>http://localhost:54785/posts/%E4%B8%A4%E7%A7%8D%E6%83%85%E7%BB%AA/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E4%B8%A4%E7%A7%8D%E6%83%85%E7%BB%AA/</guid>
       <description>前段时间，我发了一条微博，吐槽了一下自己当时的工作状态：因为情绪问题，自己没有一点工作动力。没想到，刚过不久，它就再次来临。因此想着进一步思</description>
     </item>
     <item>
       <title>跑步，熵变和构建生活秩序</title>
-      <link>http://localhost:54785/posts/%E8%B7%91%E6%AD%A5%E7%86%B5%E5%8F%98%E5%92%8C%E6%9E%84%E5%BB%BA%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F/</link>
+      <link>https://pf711-dev.github.io/posts/%E8%B7%91%E6%AD%A5%E7%86%B5%E5%8F%98%E5%92%8C%E6%9E%84%E5%BB%BA%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F/</link>
       <pubDate>Mon, 14 Aug 2023 13:47:06 +0800</pubDate>
-      <guid>http://localhost:54785/posts/%E8%B7%91%E6%AD%A5%E7%86%B5%E5%8F%98%E5%92%8C%E6%9E%84%E5%BB%BA%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E8%B7%91%E6%AD%A5%E7%86%B5%E5%8F%98%E5%92%8C%E6%9E%84%E5%BB%BA%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F/</guid>
       <description>我已经一个月没有跑步了，而在此之前我曾坚持每周至少夜跑3次，也持续了将近5个月，那么就不仅产生疑惑，这究竟发生了什么，让我持续跑步的习惯停止</description>
     </item>
     <item>
       <title>日常心流体验</title>
-      <link>http://localhost:54785/posts/%E6%97%A5%E5%B8%B8%E5%BF%83%E6%B5%81%E4%BD%93%E9%AA%8C/</link>
+      <link>https://pf711-dev.github.io/posts/%E6%97%A5%E5%B8%B8%E5%BF%83%E6%B5%81%E4%BD%93%E9%AA%8C/</link>
       <pubDate>Thu, 03 Aug 2023 13:47:50 +0800</pubDate>
-      <guid>http://localhost:54785/posts/%E6%97%A5%E5%B8%B8%E5%BF%83%E6%B5%81%E4%BD%93%E9%AA%8C/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E6%97%A5%E5%B8%B8%E5%BF%83%E6%B5%81%E4%BD%93%E9%AA%8C/</guid>
       <description>本来计划每天更新公众号文章，还没开始，昨天就中断了，主要是因为做了一件比较耗时的事情：拼装模型。 一开始觉得挺容易，因为有指导手册，只要按着步</description>
     </item>
     <item>
       <title>让想法自然涌现</title>
-      <link>http://localhost:54785/posts/%E8%AE%A9%E6%83%B3%E6%B3%95%E8%87%AA%E7%84%B6%E6%B6%8C%E7%8E%B0/</link>
+      <link>https://pf711-dev.github.io/posts/%E8%AE%A9%E6%83%B3%E6%B3%95%E8%87%AA%E7%84%B6%E6%B6%8C%E7%8E%B0/</link>
       <pubDate>Sun, 23 Jul 2023 13:49:31 +0800</pubDate>
-      <guid>http://localhost:54785/posts/%E8%AE%A9%E6%83%B3%E6%B3%95%E8%87%AA%E7%84%B6%E6%B6%8C%E7%8E%B0/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E8%AE%A9%E6%83%B3%E6%B3%95%E8%87%AA%E7%84%B6%E6%B6%8C%E7%8E%B0/</guid>
       <description>这篇文章的起点来源于记笔记，大部分时间，当我写下一条笔记的时候，我总是会先选择文件夹或者标签，然后在记录笔记，有时候会由于想不起分类而卡住，</description>
     </item>
     <item>
       <title>直面恐惧</title>
-      <link>http://localhost:54785/posts/%E7%9B%B4%E9%9D%A2%E6%81%90%E6%83%A7/</link>
+      <link>https://pf711-dev.github.io/posts/%E7%9B%B4%E9%9D%A2%E6%81%90%E6%83%A7/</link>
       <pubDate>Sat, 22 Jul 2023 13:51:10 +0800</pubDate>
-      <guid>http://localhost:54785/posts/%E7%9B%B4%E9%9D%A2%E6%81%90%E6%83%A7/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E7%9B%B4%E9%9D%A2%E6%81%90%E6%83%A7/</guid>
       <description>最近或当下你最焦虑或担心的事情是什么？这件事是否是你能控制或者改变的？如果是，这件事搞砸了最差的结果是什么？如果最差的结果能接受，为什么不去</description>
     </item>
   </channel>
