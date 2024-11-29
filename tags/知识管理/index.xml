@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>知识管理 on pf711&#39;Blog</title>
-    <link>http://localhost:52917/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</link>
+    <link>https://pf711-dev.github.io/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</link>
     <description>Recent content in 知识管理 on pf711&#39;Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 16 Jan 2024 12:54:33 +0800</lastBuildDate>
-    <atom:link href="http://localhost:52917/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pf711-dev.github.io/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>双链笔记初体验</title>
-      <link>http://localhost:52917/posts/%E5%8F%8C%E9%93%BE%E7%AC%94%E8%AE%B0%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
+      <link>https://pf711-dev.github.io/posts/%E5%8F%8C%E9%93%BE%E7%AC%94%E8%AE%B0%E5%88%9D%E4%BD%93%E9%AA%8C/</link>
       <pubDate>Tue, 16 Jan 2024 12:54:33 +0800</pubDate>
-      <guid>http://localhost:52917/posts/%E5%8F%8C%E9%93%BE%E7%AC%94%E8%AE%B0%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E5%8F%8C%E9%93%BE%E7%AC%94%E8%AE%B0%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
       <description>前段时间，我曾分享过一篇文章——《如何从0到1搭建个人知识管理体系》，一位朋友和我建议说 PARA 分类方法已经过时了，并推荐让我试试双链笔记软件：思</description>
     </item>
     <item>
       <title>如何从0到1搭建个人知识管理体系</title>
-      <link>http://localhost:52917/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</link>
+      <link>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</link>
       <pubDate>Mon, 23 Oct 2023 13:18:25 +0800</pubDate>
-      <guid>http://localhost:52917/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</guid>
       <description>最近两天一直有朋友问我两个问题：1. 平时用什么笔记软件 2. 如何搭建知识体系。 我想了想，前面一个问题很好回答，到目前为止大部分的笔记工具的差异性</description>
     </item>
     <item>
       <title>给flomo笔记软件付费</title>
-      <link>http://localhost:52917/posts/%E7%BB%99flomo%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E4%BB%98%E8%B4%B9/</link>
+      <link>https://pf711-dev.github.io/posts/%E7%BB%99flomo%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E4%BB%98%E8%B4%B9/</link>
       <pubDate>Tue, 26 Sep 2023 13:31:54 +0800</pubDate>
-      <guid>http://localhost:52917/posts/%E7%BB%99flomo%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E4%BB%98%E8%B4%B9/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E7%BB%99flomo%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E4%BB%98%E8%B4%B9/</guid>
       <description>就在刚刚，我给用了两年的笔记软件flomo付了年费，不是因为情怀，也不是因为会员功能有多强大，只是因为随着我的笔记数量增多，仅仅依靠我主动回</description>
     </item>
   </channel>
