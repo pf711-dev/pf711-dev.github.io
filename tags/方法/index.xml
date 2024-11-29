@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>方法 on pf711&#39;Blog</title>
-    <link>https://pf711-dev.github.io/tags/%E6%96%B9%E6%B3%95/</link>
+    <link>http://localhost:1313/tags/%E6%96%B9%E6%B3%95/</link>
     <description>Recent content in 方法 on pf711&#39;Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 18 Jun 2024 12:32:38 +0800</lastBuildDate>
-    <atom:link href="https://pf711-dev.github.io/tags/%E6%96%B9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%96%B9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何保持一个精力充沛的状态</title>
-      <link>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</link>
+      <link>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</link>
       <pubDate>Tue, 18 Jun 2024 12:32:38 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</guid>
       <description>最近刚好翻完《精力管理》这本书，来聊聊精力管理这个话题。 确切的说，的确有些人天生精力充沛，他们看起来休息的很少，每天又能做非常多的事情。 但是</description>
     </item>
     <item>
       <title>《小而美》|一个简化版的个人创业流程</title>
-      <link>https://pf711-dev.github.io/posts/%E5%B0%8F%E8%80%8C%E7%BE%8E%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</link>
+      <link>http://localhost:1313/posts/%E5%B0%8F%E8%80%8C%E7%BE%8E%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</link>
       <pubDate>Wed, 27 Mar 2024 12:52:17 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E5%B0%8F%E8%80%8C%E7%BE%8E%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</guid>
+      <guid>http://localhost:1313/posts/%E5%B0%8F%E8%80%8C%E7%BE%8E%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</guid>
       <description>创业是试出来的。 在前一篇文章《找到对自己来说像“玩”一样的工作》中，里面分享了一些关于个人如何找到自己的 side project 的可能性方法。但是，在找到自己的</description>
     </item>
     <item>
       <title>找到对自己来说像“玩”一样的工作</title>
-      <link>https://pf711-dev.github.io/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</link>
+      <link>http://localhost:1313/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</link>
       <pubDate>Wed, 20 Mar 2024 12:53:33 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</guid>
+      <guid>http://localhost:1313/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</guid>
       <description>好久没有分享了。 最近趁着闲暇翻完了两本小册子——《Show Your Work》和《Steal Like an Artist》， 作者是一个作家兼画家，就像他自己介绍</description>
     </item>
     <item>
       <title>如何搭建一个高效的写作系统</title>
-      <link>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E7%9A%84%E5%86%99%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+      <link>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E7%9A%84%E5%86%99%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Mon, 27 Nov 2023 13:06:03 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E7%9A%84%E5%86%99%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E7%9A%84%E5%86%99%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
       <description>最近我的写作又遇到了一个新问题：如何保持有规律且有质量输出？ 在这之前，我的写作都是依赖于灵感，比如生活中发生了一件小事让我有了新的体会，又或</description>
     </item>
     <item>
       <title>如何从0到1搭建个人知识管理体系</title>
-      <link>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</link>
+      <link>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</link>
       <pubDate>Mon, 23 Oct 2023 13:18:25 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</guid>
+      <guid>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/</guid>
       <description>最近两天一直有朋友问我两个问题：1. 平时用什么笔记软件 2. 如何搭建知识体系。 我想了想，前面一个问题很好回答，到目前为止大部分的笔记工具的差异性</description>
     </item>
     <item>
       <title>面试就像是在选择一把合适的螺丝刀</title>
-      <link>https://pf711-dev.github.io/posts/%E9%9D%A2%E8%AF%95%E5%B0%B1%E5%83%8F%E6%98%AF%E5%9C%A8%E9%80%89%E6%8B%A9%E4%B8%80%E6%8A%8A%E5%90%88%E9%80%82%E7%9A%84%E8%9E%BA%E4%B8%9D%E5%88%80/</link>
+      <link>http://localhost:1313/posts/%E9%9D%A2%E8%AF%95%E5%B0%B1%E5%83%8F%E6%98%AF%E5%9C%A8%E9%80%89%E6%8B%A9%E4%B8%80%E6%8A%8A%E5%90%88%E9%80%82%E7%9A%84%E8%9E%BA%E4%B8%9D%E5%88%80/</link>
       <pubDate>Thu, 28 Sep 2023 13:29:19 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E9%9D%A2%E8%AF%95%E5%B0%B1%E5%83%8F%E6%98%AF%E5%9C%A8%E9%80%89%E6%8B%A9%E4%B8%80%E6%8A%8A%E5%90%88%E9%80%82%E7%9A%84%E8%9E%BA%E4%B8%9D%E5%88%80/</guid>
+      <guid>http://localhost:1313/posts/%E9%9D%A2%E8%AF%95%E5%B0%B1%E5%83%8F%E6%98%AF%E5%9C%A8%E9%80%89%E6%8B%A9%E4%B8%80%E6%8A%8A%E5%90%88%E9%80%82%E7%9A%84%E8%9E%BA%E4%B8%9D%E5%88%80/</guid>
       <description>首先明确下，我不是HR，只是一个工作多年，既有求职也有面试经验的打工人，今天主要来拆解分析下面试的过程，希望对大家求职面试有更好的帮助。 求职</description>
     </item>
     <item>
       <title>我从富兰克林身上学到的解决问题的方法</title>
-      <link>https://pf711-dev.github.io/posts/%E6%88%91%E4%BB%8E%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E8%BA%AB%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95/</link>
+      <link>http://localhost:1313/posts/%E6%88%91%E4%BB%8E%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E8%BA%AB%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95/</link>
       <pubDate>Mon, 25 Sep 2023 13:32:55 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E6%88%91%E4%BB%8E%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E8%BA%AB%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
+      <guid>http://localhost:1313/posts/%E6%88%91%E4%BB%8E%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%E8%BA%AB%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
       <description>在《富兰克林自传》的第二部中，富兰克林曾花了一整个章节来讲述他的道德习惯完善计划，如果我们今天随机搜索一下养成习惯的方法，很容易找到他这个计</description>
     </item>
     <item>
       <title>浅谈创造力</title>
-      <link>https://pf711-dev.github.io/posts/%E6%B5%85%E8%B0%88%E5%88%9B%E9%80%A0%E5%8A%9B/</link>
+      <link>http://localhost:1313/posts/%E6%B5%85%E8%B0%88%E5%88%9B%E9%80%A0%E5%8A%9B/</link>
       <pubDate>Sat, 02 Sep 2023 13:38:27 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E6%B5%85%E8%B0%88%E5%88%9B%E9%80%A0%E5%8A%9B/</guid>
+      <guid>http://localhost:1313/posts/%E6%B5%85%E8%B0%88%E5%88%9B%E9%80%A0%E5%8A%9B/</guid>
       <description>灵感只有在出汗后才会显现出来。 每次提到创造力，总是会想到那些艺术家，比如：毕加索，梵高。他们总是能画出让人惊叹的作品。但是如果要让自己给创造</description>
     </item>
     <item>
       <title>我的任务管理系统</title>
-      <link>https://pf711-dev.github.io/posts/%E6%88%91%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</link>
+      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Tue, 22 Aug 2023 13:43:19 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/%E6%88%91%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</guid>
       <description>细微之处见端倪。 当收集箱中堆满了待办事项的时候，我就意识到，自己的任务管理系统需要升级了。也刚好趁这个机会重新梳理一下，如果你也感兴趣，可以</description>
     </item>
   </channel>
