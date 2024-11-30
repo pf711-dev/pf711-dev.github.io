@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading on pf711&#39;Blog</title>
-    <link>http://localhost:1313/reading/</link>
+    <link>http://localhost:58348/reading/</link>
     <description>Recent content in Reading on pf711&#39;Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/reading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58348/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试阅读文章</title>
-      <link>http://localhost:1313/reading/test-reading-post/</link>
+      <link>http://localhost:58348/reading/test-reading-post/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading/test-reading-post/</guid>
+      <guid>http://localhost:58348/reading/test-reading-post/</guid>
       <description>&lt;p&gt;这是一篇测试阅读分类的文章。&lt;/p&gt;</description>
     </item>
   </channel>

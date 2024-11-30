@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>好文推荐 on pf711&#39;Blog</title>
-    <link>http://localhost:1313/tags/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90/</link>
+    <link>http://localhost:58348/tags/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90/</link>
     <description>Recent content in 好文推荐 on pf711&#39;Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 25 Sep 2024 13:01:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58348/tags/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>好文推荐 | Consume less, Create more</title>
-      <link>http://localhost:1313/posts/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90consumelesscreatemore/</link>
+      <link>http://localhost:58348/posts/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90consumelesscreatemore/</link>
       <pubDate>Wed, 25 Sep 2024 13:01:56 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90consumelesscreatemore/</guid>
+      <guid>http://localhost:58348/posts/%E5%A5%BD%E6%96%87%E6%8E%A8%E8%8D%90consumelesscreatemore/</guid>
       <description>&lt;p&gt;今天，我在整理笔记的时候发现了这篇文章——是关于鼓励人们多去创造的话题——于是我又重读了一遍，发现我之前也写过类似主题的内容——《To Be a Creator》，更让我意外的是，我在一年前写的《让想法自然涌现》中也曾经提到过它，但我后来似乎一直都没有什么印象。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robert Benchley:How to Get Things Done</title>
-      <link>http://localhost:1313/posts/robertbenchleyhowtogetthingsdone/</link>
+      <link>http://localhost:58348/posts/robertbenchleyhowtogetthingsdone/</link>
       <pubDate>Mon, 09 Oct 2023 13:24:48 +0800</pubDate>
-      <guid>http://localhost:1313/posts/robertbenchleyhowtogetthingsdone/</guid>
+      <guid>http://localhost:58348/posts/robertbenchleyhowtogetthingsdone/</guid>
       <description>&lt;p&gt;罗伯特·查尔斯·本奇利（Robert Charles Benchley，1889 年 9 月 15 日 - 1945 年 11 月 21 日）是一位美国幽默作家，以其作为报纸专栏作家和电影演员的工作而闻名。本奇利最令人难忘的是他对《纽约客》的贡献，他的文章，无论是热门的还是荒诞的，都影响了许多现代幽默作家。他还在好莱坞声名鹊起，当时他的短片《如何入睡》大获成功，并在 1935 年奥斯卡金像奖上获得了最佳短片奖。&lt;/p&gt;</description>
     </item>
   </channel>
