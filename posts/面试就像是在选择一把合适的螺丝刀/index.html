@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=58348&amp;path=livereload" data-no-instant defer></script>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>面试就像是在选择一把合适的螺丝刀 | pf711&#39;Blog</title>
@@ -153,9 +153,9 @@
     
         <div class="tags">
             
-                <a href="http://localhost:58348/tags/%E6%96%B9%E6%B3%95">方法</a>
+                <a href="http://localhost:1313/tags/%E6%96%B9%E6%B3%95">方法</a>
             
-                <a href="http://localhost:58348/tags/%E6%9D%82%E8%B0%88">杂谈</a>
+                <a href="http://localhost:1313/tags/%E6%9D%82%E8%B0%88">杂谈</a>
             
         </div>
     
@@ -163,23 +163,18 @@
     
   <div id="comment">
     
-<div class="giscus-container">
-    <script 
-        src="https://giscus.app/client.js"
-        data-repo="pf711-dev/blog-comment"
-        data-repo-id="R_kgDONW2hCw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDONW2hC84Ckv0A"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-login="disabled"
-        crossorigin="anonymous"
-        async>
-    </script>
+<div id="comments">
+    <h3>评论</h3>
+    <form method="POST" action="https://staticman.net/v3/entry/github/pf711-dev/blog-comment/master">
+        <input name="options[redirect]" type="hidden" value="http://localhost:1313/posts/%E9%9D%A2%E8%AF%95%E5%B0%B1%E5%83%8F%E6%98%AF%E5%9C%A8%E9%80%89%E6%8B%A9%E4%B8%80%E6%8A%8A%E5%90%88%E9%80%82%E7%9A%84%E8%9E%BA%E4%B8%9D%E5%88%80/">
+        <input name="options[slug]" type="hidden" value="面试就像是在选择一把合适的螺丝刀">
+        <label>Name <input name="fields[name]" type="text"></label>
+        <label>Email <input name="fields[email]" type="email"></label>
+        <label>Message <textarea name="fields[message]" rows="10"></textarea></label>
+        <button type="submit">提交评论</button>
+    </form>
+
+    
 </div>
 
 

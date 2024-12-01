@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>阅读随笔 on pf711&#39;Blog</title>
-    <link>http://localhost:58348/tags/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94/</link>
+    <link>http://localhost:1313/tags/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94/</link>
     <description>Recent content in 阅读随笔 on pf711&#39;Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Oct 2024 23:11:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:58348/tags/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>推荐一本书</title>
-      <link>http://localhost:58348/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%9C%AC%E4%B9%A6/</link>
+      <link>http://localhost:1313/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%9C%AC%E4%B9%A6/</link>
       <pubDate>Sun, 27 Oct 2024 23:11:00 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%9C%AC%E4%B9%A6/</guid>
+      <guid>http://localhost:1313/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%9C%AC%E4%B9%A6/</guid>
       <description>&lt;p&gt;《the art of science and engineering》。&lt;/p&gt;&#xA;&lt;p&gt;作者是 Richard Hamming（理查德·汉明），之前我也曾分享过一篇关于他的文章的笔记——《You and Your Research》阅读笔记｜在一个领域获得巨大成就的关键因素？作者的成就我就不仔细介绍了，大家可以自行搜索。&lt;/p&gt;</description>
     </item>
     <item>
       <title>《Keep Going》|保持创造力的 10 个建议</title>
-      <link>http://localhost:58348/posts/keepgoing%E4%BF%9D%E6%8C%81%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%8410%E4%B8%AA%E5%BB%BA%E8%AE%AE/</link>
+      <link>http://localhost:1313/posts/keepgoing%E4%BF%9D%E6%8C%81%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%8410%E4%B8%AA%E5%BB%BA%E8%AE%AE/</link>
       <pubDate>Sat, 03 Aug 2024 13:01:56 +0800</pubDate>
-      <guid>http://localhost:58348/posts/keepgoing%E4%BF%9D%E6%8C%81%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%8410%E4%B8%AA%E5%BB%BA%E8%AE%AE/</guid>
+      <guid>http://localhost:1313/posts/keepgoing%E4%BF%9D%E6%8C%81%E5%88%9B%E9%80%A0%E5%8A%9B%E7%9A%8410%E4%B8%AA%E5%BB%BA%E8%AE%AE/</guid>
       <description>&lt;p&gt;How we spend our days is how we spend our lives.&lt;/p&gt;&#xA;&lt;p&gt;前段时间，我在《找到对自己来说像“玩”一样的工作》这篇文章中曾经分享过 Austin Kleon的两本书——《Steal Like an Artist》和《Show Your Work》——并分享了一些自己对如何找到自己 side project 的想法。最近，我又把作者的另一本书《Keep Going》翻完了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>如何保持一个精力充沛的状态</title>
-      <link>http://localhost:58348/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</link>
+      <link>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</link>
       <pubDate>Tue, 18 Jun 2024 12:32:38 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E4%B8%80%E4%B8%AA%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B%E7%9A%84%E7%8A%B6%E6%80%81/</guid>
       <description>&lt;p&gt;最近刚好翻完《精力管理》这本书，来聊聊精力管理这个话题。&lt;/p&gt;&#xA;&lt;p&gt;确切的说，的确有些人天生精力充沛，他们看起来休息的很少，每天又能做非常多的事情。&lt;/p&gt;&#xA;&lt;p&gt;但是天赋是可遇不可求的，我们没必要和那些天赋异斌的人相比，我们只需要比过去的自己精力更好就足够了。&#xA;作为普通人，我们也可以通过一定刻意练习的方法来提高自己的精力水平。&lt;/p&gt;</description>
     </item>
     <item>
       <title>工匠思维</title>
-      <link>http://localhost:58348/posts/%E8%BF%90%E7%94%A8%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4%E6%9D%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%8E%B7%E5%BE%97%E8%81%8C%E5%9C%BA%E8%B5%84%E6%9C%AC/</link>
+      <link>http://localhost:1313/posts/%E8%BF%90%E7%94%A8%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4%E6%9D%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%8E%B7%E5%BE%97%E8%81%8C%E5%9C%BA%E8%B5%84%E6%9C%AC/</link>
       <pubDate>Sun, 07 Apr 2024 12:50:16 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E8%BF%90%E7%94%A8%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4%E6%9D%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%8E%B7%E5%BE%97%E8%81%8C%E5%9C%BA%E8%B5%84%E6%9C%AC/</guid>
+      <guid>http://localhost:1313/posts/%E8%BF%90%E7%94%A8%E5%B7%A5%E5%8C%A0%E6%80%9D%E7%BB%B4%E6%9D%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%8E%B7%E5%BE%97%E8%81%8C%E5%9C%BA%E8%B5%84%E6%9C%AC/</guid>
       <description>&lt;p&gt;激情是精通的副产品。&lt;/p&gt;&#xA;&lt;p&gt;大家可能都听过一句非常流行的话：选择大于努力。乍一听，似乎非常合理，也许每个人还都公开或者私下里说过或有过这样的想法：「如果我当初选择了 xx ，那么我今天可能就不会这样了」。 但是，如果深究一下，就会发现这句话很有问题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>《小而美》|一个简化版的个人创业流程</title>
-      <link>http://localhost:58348/posts/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</link>
+      <link>http://localhost:1313/posts/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</link>
       <pubDate>Wed, 27 Mar 2024 12:52:17 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</guid>
+      <guid>http://localhost:1313/posts/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8C%96%E7%89%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%88%9B%E4%B8%9A%E6%B5%81%E7%A8%8B/</guid>
       <description>&lt;p&gt;创业是试出来的。&lt;/p&gt;&#xA;&lt;p&gt;在前一篇文章《找到对自己来说像“玩”一样的工作》中，里面分享了一些关于个人如何找到自己的 side project 的可能性方法。但是，在找到自己的 side project 之后，如何围绕它建立一项可持续发展的业务呢？&lt;/p&gt;</description>
     </item>
     <item>
       <title>找到对自己来说像“玩”一样的工作</title>
-      <link>http://localhost:58348/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</link>
+      <link>http://localhost:1313/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</link>
       <pubDate>Wed, 20 Mar 2024 12:53:33 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</guid>
+      <guid>http://localhost:1313/posts/%E6%89%BE%E5%88%B0%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%9D%A5%E8%AF%B4%E5%83%8F%E7%8E%A9%E4%B8%80%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C/</guid>
       <description>&lt;p&gt;好久没有分享了。&lt;/p&gt;&#xA;&lt;p&gt;最近趁着闲暇翻完了两本小册子——《Show Your Work》和《Steal Like an Artist》， 作者是一个作家兼画家，就像他自己介绍自己时说的：“I’m a writer who draws. I make art with words and books with pictures。” 这两本书主要介绍了一些关于进行创意工作的经验，而且图文并茂，很有趣，内容也不长，不到两个小时就能看完。&lt;/p&gt;</description>
     </item>
     <item>
       <title>无为：一种毫不费力做事的人生状态</title>
-      <link>http://localhost:58348/posts/%E6%97%A0%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%AF%AB%E4%B8%8D%E8%B4%B9%E5%8A%9B%E5%81%9A%E4%BA%8B%E7%9A%84%E4%BA%BA%E7%94%9F%E7%8A%B6%E6%80%81/</link>
+      <link>http://localhost:1313/posts/%E6%97%A0%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%AF%AB%E4%B8%8D%E8%B4%B9%E5%8A%9B%E5%81%9A%E4%BA%8B%E7%9A%84%E4%BA%BA%E7%94%9F%E7%8A%B6%E6%80%81/</link>
       <pubDate>Mon, 25 Dec 2023 12:59:57 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E6%97%A0%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%AF%AB%E4%B8%8D%E8%B4%B9%E5%8A%9B%E5%81%9A%E4%BA%8B%E7%9A%84%E4%BA%BA%E7%94%9F%E7%8A%B6%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/%E6%97%A0%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%AF%AB%E4%B8%8D%E8%B4%B9%E5%8A%9B%E5%81%9A%E4%BA%8B%E7%9A%84%E4%BA%BA%E7%94%9F%E7%8A%B6%E6%80%81/</guid>
       <description>&lt;p&gt;前段时间，我曾经分享过一篇关于「任务管理」的文章——《Robert Benchley：How to Get Things Done》，它和传统的 GTD 的思想的不同之处在于——它会更多地考虑到人的情绪和心理因素。就像这篇文章当中的一句俏皮话：“任何人都可以做任何数量的工作，只要这不是他当时应该做的工作。”&lt;/p&gt;</description>
     </item>
     <item>
       <title>致敬查理·芒格</title>
-      <link>http://localhost:58348/posts/%E8%87%B4%E6%95%AC%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC/</link>
+      <link>http://localhost:1313/posts/%E8%87%B4%E6%95%AC%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC/</link>
       <pubDate>Thu, 07 Dec 2023 13:02:02 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E8%87%B4%E6%95%AC%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC/</guid>
+      <guid>http://localhost:1313/posts/%E8%87%B4%E6%95%AC%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC/</guid>
       <description>&lt;p&gt;上周，查理·芒格去世了，当我看到这个消息时，有些吃惊，因为在我的印象中，他一直都是以一个智慧老人的形象示人，而那几天我也恰好在看《芒格之道》，后来我还读到一段话，让我特别有感触：&lt;/p&gt;</description>
     </item>
     <item>
       <title>读书笔记：《大学》</title>
-      <link>http://localhost:58348/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%A7%E5%AD%A6/</link>
+      <link>http://localhost:1313/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%A7%E5%AD%A6/</link>
       <pubDate>Thu, 16 Nov 2023 13:10:11 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%A7%E5%AD%A6/</guid>
+      <guid>http://localhost:1313/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%A7%E5%AD%A6/</guid>
       <description>&lt;p&gt;在当下，每次提到传统的四书，很多人第一反应是抵触，不愿意谈论，认为是传统的封建思想，但是如果你要问起来，很多人甚至连四书具体有哪些都不知道，更不用说完完整整的读过，也难怪当下网络环境那么差，如果网络上多一些只发表自己了解过的真实经历的观点，也就不会有那么多的喷子，当然这是后话。&lt;/p&gt;</description>
     </item>
     <item>
       <title>读书笔记：《一只鸟接着一只鸟》</title>
-      <link>http://localhost:58348/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B8%80%E5%8F%AA%E9%B8%9F%E6%8E%A5%E7%9D%80%E4%B8%80%E5%8F%AA%E9%B8%9F/</link>
+      <link>http://localhost:1313/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B8%80%E5%8F%AA%E9%B8%9F%E6%8E%A5%E7%9D%80%E4%B8%80%E5%8F%AA%E9%B8%9F/</link>
       <pubDate>Wed, 15 Nov 2023 13:12:16 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B8%80%E5%8F%AA%E9%B8%9F%E6%8E%A5%E7%9D%80%E4%B8%80%E5%8F%AA%E9%B8%9F/</guid>
+      <guid>http://localhost:1313/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B8%80%E5%8F%AA%E9%B8%9F%E6%8E%A5%E7%9D%80%E4%B8%80%E5%8F%AA%E9%B8%9F/</guid>
       <description>&lt;p&gt;前两天我看完安·拉莫特关于写作的书《一只鸟接着一只鸟》，深有感触，尽管它是一本关于小说类创作的书，但是它对于其他类型的写作者也同样具有非常好的启发作用。今天花了点时间，来总结下我从这本书中学到的关于写作最有价值的十条建议。&lt;/p&gt;</description>
     </item>
     <item>
       <title>《You and Your Research》阅读笔记:在一个领域获得巨大成就的关键因素</title>
-      <link>http://localhost:58348/posts/youandyourresearch%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%A2%86%E5%9F%9F%E8%8E%B7%E5%BE%97%E5%B7%A8%E5%A4%A7%E6%88%90%E5%B0%B1%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/</link>
+      <link>http://localhost:1313/posts/youandyourresearch%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%A2%86%E5%9F%9F%E8%8E%B7%E5%BE%97%E5%B7%A8%E5%A4%A7%E6%88%90%E5%B0%B1%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/</link>
       <pubDate>Wed, 04 Oct 2023 13:26:49 +0800</pubDate>
-      <guid>http://localhost:58348/posts/youandyourresearch%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%A2%86%E5%9F%9F%E8%8E%B7%E5%BE%97%E5%B7%A8%E5%A4%A7%E6%88%90%E5%B0%B1%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/</guid>
+      <guid>http://localhost:1313/posts/youandyourresearch%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%A2%86%E5%9F%9F%E8%8E%B7%E5%BE%97%E5%B7%A8%E5%A4%A7%E6%88%90%E5%B0%B1%E7%9A%84%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0/</guid>
       <description>&lt;p&gt;今天读完理查德·汉明的个人演讲《You and Your Research》[1]，受益匪浅，于是将书中的主要观点总结出来，形成这篇笔记文章。&lt;/p&gt;&#xA;&lt;p&gt;理查德·汉明是美国著名的数学家，在计算机和通讯方面有巨大的贡献，也许你没听说过他的名字，但可能听说过他的那个著名的“汉明”问题：你关注领域的重大问题是什么？你为什么不解决它？&lt;/p&gt;</description>
     </item>
     <item>
       <title>合适的目标，练习的心态</title>
-      <link>http://localhost:58348/posts/%E5%90%88%E9%80%82%E7%9A%84%E7%9B%AE%E6%A0%87%E7%BB%83%E4%B9%A0%E7%9A%84%E5%BF%83%E6%80%81/</link>
+      <link>http://localhost:1313/posts/%E5%90%88%E9%80%82%E7%9A%84%E7%9B%AE%E6%A0%87%E7%BB%83%E4%B9%A0%E7%9A%84%E5%BF%83%E6%80%81/</link>
       <pubDate>Mon, 04 Sep 2023 13:36:02 +0800</pubDate>
-      <guid>http://localhost:58348/posts/%E5%90%88%E9%80%82%E7%9A%84%E7%9B%AE%E6%A0%87%E7%BB%83%E4%B9%A0%E7%9A%84%E5%BF%83%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/%E5%90%88%E9%80%82%E7%9A%84%E7%9B%AE%E6%A0%87%E7%BB%83%E4%B9%A0%E7%9A%84%E5%BF%83%E6%80%81/</guid>
       <description>&lt;p&gt;不同阶段重读一本书，会有不同的收获。&lt;/p&gt;&#xA;&lt;p&gt;昨天重温了一遍《练习的心态》这本书，仍然觉得收获满满，不是因为这本书讲的有多高深，而是对于生活和工作非常实用。&lt;/p&gt;</description>
     </item>
   </channel>
