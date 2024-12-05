@@ -30,15 +30,24 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
       - name: Build
         env:
           HUGO_ENV: production
         run: |
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
+          echo "Current directory structure:"
+          ls -la
+          echo "\nContent directory:"
+          ls -la content/
+          echo "\nTheme directory:"
+          ls -la themes/mini/
+          hugo --minify
+          echo "\nPublic directory after build:"
+          ls -la public/
+          touch public/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
