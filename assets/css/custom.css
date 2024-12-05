@@ -1,0 +1,6 @@
+/* Waline 评论区样式自定义 */
+#waline {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+}

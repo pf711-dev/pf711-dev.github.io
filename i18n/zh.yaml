@@ -1,0 +1,10 @@
+home: 
+  other: "首页"
+archive:
+  other: "归档"
+tags:
+  other: "标签"
+about:
+  other: "关于"
+subscribe:
+  other: "订阅"

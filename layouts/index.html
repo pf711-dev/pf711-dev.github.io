@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div style="text-align: center; padding: 50px;">
+    <h1>Welcome to {{ .Site.Title }}</h1>
+    <p>{{ now.Format "2006-01-02 15:04:05" }}</p>
+    <div>
+        {{ range where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+            <div>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }} 

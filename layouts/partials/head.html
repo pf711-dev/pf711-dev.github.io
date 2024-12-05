@@ -1,0 +1,42 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- 使用主题原有的样式 -->
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+    
+    <!-- 引入自定义样式 -->
+    <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
+    
+    <!-- 百度统计 -->
+    {{ if .Site.Params.baiduAnalytics }}
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?{{ .Site.Params.baiduAnalytics }}";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+    {{ end }}
+    
+    <!-- Google Analytics -->
+    {{ if .Site.Params.googleAnalytics }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.googleAnalytics }}');
+    </script>
+    {{ end }}
+    
+    <title>{{ .Site.Title }}</title>
+    
+    {{ if .Site.Params.waline.enable }}
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@waline/client/dist/waline.css" />
+    {{ end }}
+</head> 

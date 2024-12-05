@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="article-list">
+    <h1 class="latest-posts-title">最新文章</h1>
+    {{ range .Pages }}
+    <article class="article">
+        <div class="article-date">
+            {{ partial "date.html" . }}
+        </div>
+        <h2 class="article-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+    </article>
+    {{ end }}
+</div>
+{{ end }} 

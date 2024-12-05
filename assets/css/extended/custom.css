@@ -1,0 +1,33 @@
+/* 只隐藏头部的特定元素 */
+.app-header-avatar {
+    display: none !important;
+}
+
+.app-header-title {
+    display: none !important;
+}
+
+.app-header-subtitle {
+    display: none !important;
+}
+
+/* 保持基本布局结构 */
+.app-header {
+    padding: 2rem;
+}
+
+.app-container {
+    padding-top: 2rem;
+}
+
+/* 确保导航栏正确显示 */
+.app-header-navigation {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+/* 确保文章列表正确显示 */
+.article-list {
+    margin-top: 2rem;
+} 

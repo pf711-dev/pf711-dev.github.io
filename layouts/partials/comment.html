@@ -1,0 +1,17 @@
+{{ if .Site.Params.waline.enable }}
+<div id="waline"></div>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+<script>
+    Waline.init({
+        el: '#waline',
+        serverURL: '{{ .Site.Params.waline.serverURL }}',
+        lang: '{{ .Site.Params.waline.lang }}',
+        dark: '{{ .Site.Params.waline.dark }}',
+        login: 'disable',
+        pageview: true,
+        comment: true,
+        placeholder: '{{ .Site.Params.waline.placeholder }}',
+        path: window.location.pathname
+    });
+</script>
+{{ end }} 

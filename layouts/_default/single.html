@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="article-detail">
+    <h1 class="article-detail-title">{{ .Title }}</h1>
+    <div class="article-detail-info">
+        <span class="article-detail-date">{{ partial "date.html" . }}</span>
+        <span class="article-detail-divider">·</span>
+        <span class="article-detail-wordcount">{{ countwords .Content }} 字</span>
+    </div>
+    <div class="article-detail-content">
+        {{ .Content }}
+    </div>
+    
+    {{ partial "comment.html" . }}
+</article>
+{{ end }} 
