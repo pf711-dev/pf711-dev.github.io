@@ -53,6 +53,9 @@ params:
     pageview: true
     comment: true
     placeholder: "说点什么吧..."
+    path: window.location.pathname
+    requiredMeta: []
+    reaction: false
 
 # Markdown 渲染配置
 markup:
