@@ -44,9 +44,14 @@ jobs:
           ls -la content/
           echo "\nTheme directory:"
           ls -la themes/mini/
-          hugo --minify
+          echo "\nCleaning previous build..."
+          rm -rf public
+          echo "\nBuilding site..."
+          hugo --debug
           echo "\nPublic directory after build:"
           ls -la public/
+          echo "\nChecking index.html:"
+          cat public/index.html
           touch public/.nojekyll
 
       - name: Upload artifact
