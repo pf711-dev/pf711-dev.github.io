@@ -46,16 +46,17 @@ params:
   # Waline 配置
   waline:
     enable: true
-    serverURL: "https://waline-comment-phi-six.vercel.app"
+    serverURL: "https://waline-commit-01-bib8wt5k0-pf711-devs-projects.vercel.app/"
     lang: "zh-CN"
     dark: "auto"
     login: "disable"
     pageview: true
     comment: true
     placeholder: "说点什么吧..."
-    path: window.location.pathname
+    path: ":pathname"
     requiredMeta: []
     reaction: false
+    debug: true
 
 # Markdown 渲染配置
 markup:
