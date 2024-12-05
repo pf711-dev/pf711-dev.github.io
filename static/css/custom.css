@@ -129,7 +129,7 @@ header.profile,
 /* 文章列表样式 */
 .article-list {
     margin-top: 0;
-    padding-left: 0;  /* 移除左内边距，让内容完全左对齐 */
+    padding-left: 0;
 }
 
 .article {
@@ -141,8 +141,9 @@ header.profile,
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    gap: 0.5rem;
+    gap: 1rem;
     padding: 0;
+    margin-bottom: 0.75rem;
 }
 
 /* 文章标题样式 */
@@ -167,10 +168,10 @@ header.profile,
 .article-title a {
     color: #333;
     text-decoration: none;
-    display: block;  /* 让整个区域可点击 */
+    display: block;
     overflow: hidden;
-    text-overflow: ellipsis;  /* 如果标题太长，显示省略号 */
-    white-space: nowrap;      /* 防止标题换行 */
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .article-title a:hover {
@@ -194,37 +195,39 @@ header.profile,
 /* 分页导航样式 */
 .pagination {
     display: flex;
-    justify-content: space-between;  /* 改为两端对齐 */
+    justify-content: space-between;
     align-items: center;
-    gap: 1rem;
-    margin-top: 2rem;
-    padding: 0;  /* 移除内边距 */
-    border-top: none;
+    margin-top: 0.5rem;
+    padding: 0;
     max-width: 720px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .pagination-item {
-    color: #666;
+    color: #0366d6;
     text-decoration: none;
-    padding: 0.25rem 0;
+    padding: 0;
     font-size: 0.9rem;
     font-style: italic;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.pagination-prev {
+    margin-right: auto;
 }
 
 .pagination-next {
-    margin-left: auto;  /* 将"下一页"推到右边 */
+    margin-left: auto;
 }
 
-a.pagination-item {
-    color: #0366d6;
-    font-style: italic;
-}
-
-a.pagination-item:hover {
+.pagination-item:hover {
     color: #0056b3;
     text-decoration: underline;
+    background: none !important;
+    border: none !important;
 }
 
 /* 移除分页项的背景色和圆角 */
@@ -587,4 +590,95 @@ a.pagination-item:hover {
     border: 1px solid #eee !important;
     border-radius: 4px !important;
     background-color: #fff !important;
+}
+
+.posts {
+    margin: 2rem 0;
+}
+
+.post {
+    margin-bottom: 2rem;
+}
+
+.post-title {
+    margin-bottom: 0.5rem;
+}
+
+.post-date {
+    display: block;
+    color: #9a9a9a;
+    margin-bottom: 1rem;
+}
+
+/* 标签页面标题样式 */
+.tag-posts .latest-posts-title {
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: italic;
+    color: #333;
+    margin: 2rem 0 1.5rem 0;
+    padding: 0;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 年份标题样式 */
+.tag-posts .archive-year-title {
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: italic;  /* 添加斜体样式 */
+    color: #333;
+    margin: 2rem 0 1.5rem 0;
+    padding: 0;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 文章列表样式 */
+.tag-posts .archive-list {
+    margin-top: 0;
+    padding-left: 0;
+}
+
+/* 文章项样式 */
+.tag-posts .archive-item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    gap: 1rem;
+    padding: 0;
+    margin-bottom: 0.75rem;
+}
+
+/* 日期样式 */
+.tag-posts .archive-date {
+    color: #666;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    min-width: 3rem;
+    text-align: left;
+}
+
+/* 标题样式 */
+.tag-posts .archive-title {
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: normal;
+    flex: 1;
+}
+
+.tag-posts .archive-title a {
+    color: #0366d6;
+    text-decoration: underline;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.tag-posts .archive-title a:hover {
+    color: #0056b3;
+    text-decoration: underline;
 }

@@ -3,6 +3,9 @@ languageCode: "zh-cn"
 title: "pf711's Blog"
 theme: "mini"
 
+# 分页设置（改为12）
+paginate: 12
+
 # 确保这些基本路径配置正确
 contentDir: "content"
 layoutDir: "layouts"
@@ -14,8 +17,11 @@ params:
   title: "pf711's Blog"
   subtitle: "write what you think..."
   
+  # 首页显示设置
+  hiddenPostSummaryInHomePage: false  # 显示文章摘要
+  paginate: 15  # 每页显示15篇文章
+  
   # 功能控制
-  hiddenPostSummaryInHomePage: true
   showToc: true
   showPowerBy: false
   
