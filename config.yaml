@@ -46,7 +46,7 @@ params:
   # Waline 配置
   waline:
     enable: true
-    serverURL: "https://waline-commit-01.vercel.app"
+    serverURL: "https://waline-commit-01-bib8wt5k0-pf711-devs-projects.vercel.app/"
     lang: "zh-CN"
     dark: "auto"
     login: "disable"
