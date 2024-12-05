@@ -38,20 +38,7 @@ jobs:
         env:
           HUGO_ENV: production
         run: |
-          echo "Current directory structure:"
-          ls -la
-          echo "\nContent directory:"
-          ls -la content/
-          echo "\nTheme directory:"
-          ls -la themes/mini/
-          echo "\nCleaning previous build..."
-          rm -rf public
-          echo "\nBuilding site..."
-          hugo --debug
-          echo "\nPublic directory after build:"
-          ls -la public/
-          echo "\nChecking index.html:"
-          cat public/index.html
+          hugo --minify
           touch public/.nojekyll
 
       - name: Upload artifact
