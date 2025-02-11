@@ -1,0 +1,7 @@
+{{ $w := 0 }}
+{{ $content := .RawContent }}
+{{ $w = add $w (len (findRE "[\\p{Han}]" $content "g")) }}
+{{ $w = add $w (len (findRE "\\b[a-zA-Z0-9]+\\b" $content "g")) }}
+{{ $w = add $w (div (len (findRE "[\\p{P}\\p{S}]" $content "g")) 2) }}
+{{ .Store.Set "word_count" $w }}
+{{ return $w }}

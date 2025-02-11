@@ -1,0 +1,184 @@
+# 基础配置
+baseURL = "https://pf711-dev.github.io/"  # 网站的基础URL
+title = "Pf711'Blog"                      # 网站标题
+pagination = { pagerSize = 10 }           # 分页设置
+theme = "PaperMod"                        # 使用的主题
+languageCode = "zh-cn"                    # 设置语言为中文
+defaultContentLanguage = "zh-cn"          # 默认内容语言为中文
+
+
+# 构建选项
+enableRobotsTXT = true                    # 启用robots.txt文件，用于搜索引擎爬虫
+buildDrafts = false                       # 是否构建草稿文章
+buildFuture = false                       # 是否构建未来日期的文章
+buildExpired = false                      # 是否构建过期的文章
+
+# 压缩设置
+[minify]
+disableXML = true                       # 禁用XML压缩
+minifyOutput = true                     # 启用输出压缩
+
+# Markup 设置
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true     # 允许在 Markdown 中使用 HTML
+
+# 网站参数设置
+[params]
+env = "production"                         # 环境设置，用于启用谷歌分析、社交媒体卡片等
+title = "ExampleSite"                      # 站点标题
+description = "ExampleSite description"   # 站点描述
+keywords = ["Blog", "Portfolio", "PaperMod"]    # 站点关键词
+#author = "pf711"                              # 作者信息
+# author = ["Me", "You"]                 # 多作者设置
+images = ["<link or path of image for opengraph, twitter-cards>"] # 社交媒体分享图片
+DateFormat = "2006-01-02"          # 日期格式
+defaultTheme = "auto"                      # 默认主题模式：auto(自动), dark(深色), light(浅色)
+disableThemeToggle = false               # 是否禁用主题切换按钮
+
+# 功能开关设置
+ShowReadingTime = false                  # 显示阅读时间
+ShowShareButtons = false                 # 显示分享按钮
+ShowPostNavLinks = true                 # 显示文章导航链接
+ShowBreadCrumbs = false                  # 显示面包屑导航
+ShowCodeCopyButtons = false              # 显示代码复制按钮
+ShowWordCount = false                    # 显示字数统计
+ShowRssButtonInSectionTermList = false   # 在分类列表中显示RSS按钮
+UseHugoToc = true                       # 使用Hugo内置的目录功能
+disableSpecial1stPost = true             # 禁用首篇文章特殊样式
+disableScrollToTop = false               # 禁用返回顶部按钮
+comments = false                         # 禁用评论功能
+hidemeta = false                          # 隐藏元数据
+hideSummary = false                       # 隐藏摘要
+showtoc = true                          # 显示目录
+tocopen = false                          # 目录默认展开状态
+
+# 资源设置
+[params.assets]
+# disableHLJS = true                   # 禁用highlight.js代码高亮
+# disableFingerprinting = true         # 禁用资源指纹
+favicon = "<link / abs url>"           # 网站图标
+favicon16x16 = "<link / abs url>"      # 16x16网站图标
+favicon32x32 = "<link / abs url>"      # 32x32网站图标
+apple_touch_icon = "<link / abs url>"  # iOS设备图标
+safari_pinned_tab = "<link / abs url>" # Safari固定标签图标
+
+# 网站标签设置
+[params.label]
+text = "Pf711'Blog"                          # 主页标签文本
+icon = "/apple-touch-icon.png"           # 主页标签图标
+iconHeight = 35                        # 图标高度
+
+# 个人资料模式设置
+[params.profileMode]
+enabled = false                        # 是否启用个人资料模式
+title = "ExampleSite"                    # 个人资料标题
+subtitle = "This is subtitle"          # 个人资料副标题
+imageUrl = "<img location>"            # 个人资料图片URL
+imageWidth = 120                       # 图片宽度
+imageHeight = 120                      # 图片高度
+imageTitle = "my image"                  # 图片标题
+
+[[params.profileMode.buttons]]          # 个人资料按钮
+name = "文章"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "Tags"
+url = "tags"
+
+# 主页信息模式设置
+[params.homeInfoParams]
+Title = "你好👋"                      # 主页标题
+Content = """我是 pf711，本博客始于 2023 年 7 月，主要记录我的所思所想（writing is thinking）。
+
+邮箱：wy_maeon@163.com"""           # 主页内容
+
+# 社交图标设置
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/pf711-dev"
+
+[[params.socialIcons]]
+name = "weibo"
+url = "https://weibo.com/u/7473982971"
+icon = "images/icons/weibo.svg"
+
+#[[params.socialIcons]]
+#name = "email"
+#text = "wy_maeon@163.com"
+
+#[[params.socialIcons]]
+#name = "rss"
+#url = "/index.xml"
+
+# 分析工具设置
+[params.analytics]
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"      # Google站点验证标签
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"      # Bing站点验证标签
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"      # Yandex站点验证标签
+
+# 封面图片设置
+[params.cover]
+hidden = true                          # 在结构化数据之外隐藏
+hiddenInList = true                    # 在列表页面和主页隐藏
+hiddenInSingle = true                  # 在单页面隐藏
+
+# 文章编辑设置
+#[params.editPost]
+#URL = "https://github.com/pf711-dev/pf711-dev.github.io/content" # 编辑URL
+#Text = "编辑此页"                       # 编辑按钮文本
+#appendFilePath = true                  # 附加文件路径到编辑链接
+
+# 搜索功能设置
+# https://fusejs.io/api/options.html
+[params.fuseOpts]
+isCaseSensitive = false                # 是否区分大小写
+shouldSort = true                      # 是否对结果排序
+location = 0                           # 匹配位置
+distance = 1000                        # 匹配距离
+threshold = 0.4                        # 匹配阈值
+minMatchCharLength = 0                 # 最小匹配字符长度
+limit = 10                             # 结果限制数量
+keys = ["title", "permalink", "summary", "content"] # 搜索键
+
+# Menu Settings
+[menu]
+[[menu.main]]                          # Main Menu
+identifier = "archive"
+name = "归档"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]                          # Search Page
+identifier = "search"
+name = "搜索"
+url = "/search/"
+weight = 20
+
+[[menu.main]]                          # Tags Page
+identifier = "tags"
+name = "标签"
+url = "/tags/"
+weight = 30
+
+# Code Highlighting Settings
+pygmentsUseClasses = true
+[markup.highlight]
+noClasses = false
+# anchorLineNos = true                    # 行号锚点
+# codeFences = true                       # 代码围栏
+# guessSyntax = true                      # 自动猜测语法
+# lineNos = true                          # 显示行号
+# style = monokai                         # 高亮主题样式
+
+# 输出格式设置
+[outputs]
+home = ["HTML", "RSS", "JSON"]

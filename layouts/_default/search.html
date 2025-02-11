@@ -1,0 +1,119 @@
+{{- define "main" }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+<div id="searchbox">
+    <input id="searchInput" autofocus placeholder="搜索..." type="search" autocomplete="off">
+    <ul id="searchResults" aria-label="搜索结果"></ul>
+    <div id="searchError" style="display: none; color: red; margin-top: 10px;">加载搜索索引时出错</div>
+</div>
+
+<script>
+// 获取搜索数据
+fetch('{{ .Site.BaseURL }}index.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('加载搜索索引时出错');
+        }
+        return response.json();
+    })
+    .then(data => {
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+        const searchError = document.getElementById('searchError');
+        const MAX_RESULTS = 10;
+
+        // 搜索函数
+        function search(query) {
+            query = query.toLowerCase();
+            return data.filter(item => {
+                const titleMatch = item.title.toLowerCase().includes(query);
+                const contentMatch = item.content.toLowerCase().includes(query);
+                const summaryMatch = item.summary.toLowerCase().includes(query);
+                return titleMatch || contentMatch || summaryMatch;
+            }).slice(0, MAX_RESULTS);
+        }
+
+        // 显示搜索结果
+        function showResults(results) {
+            searchResults.innerHTML = '';
+            results.forEach(item => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.href = item.permalink;
+                a.textContent = item.title;
+                li.appendChild(a);
+                searchResults.appendChild(li);
+            });
+        }
+
+        // 监听搜索输入
+        searchInput.addEventListener('input', (e) => {
+            const query = e.target.value;
+            const results = search(query);
+            showResults(results);
+        });
+
+        // 隐藏错误信息
+        searchError.style.display = 'none';
+    })
+    .catch(error => {
+        // 显示错误信息
+        const searchError = document.getElementById('searchError');
+        searchError.style.display = 'block';
+        console.error('搜索索引加载失败:', error);
+    });
+</script>
+
+<style>
+#searchbox {
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#searchResults {
+    list-style: none;
+    padding: 0;
+}
+
+#searchResults li {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+#searchResults a {
+    color: #2196F3;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#searchResults a:hover {
+    text-decoration: underline;
+}
+
+.search-result-summary {
+    margin: 10px 0 0 0;
+    color: #666;
+    font-size: 14px;
+}
+</style>
+{{- end }}

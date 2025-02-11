@@ -1,33 +1,14 @@
-/* 只隐藏头部的特定元素 */
-.app-header-avatar {
-    display: none !important;
+.main .container {
+    flex: 1;
+    min-height: calc(100vh - 100px);
+    padding: 10px 0;
+}
+.main .home-info .entry-content h1 {
+    font-size: 2em !important;
+    line-height: 1.3;
+    margin-bottom: 10px;
 }
 
-.app-header-title {
-    display: none !important;
+.home-info .entry-content {
+    font-size: 16px;
 }
-
-.app-header-subtitle {
-    display: none !important;
-}
-
-/* 保持基本布局结构 */
-.app-header {
-    padding: 2rem;
-}
-
-.app-container {
-    padding-top: 2rem;
-}
-
-/* 确保导航栏正确显示 */
-.app-header-navigation {
-    display: flex;
-    justify-content: center;
-    margin-top: 2rem;
-}
-
-/* 确保文章列表正确显示 */
-.article-list {
-    margin-top: 2rem;
-} 
