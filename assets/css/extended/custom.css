@@ -12,3 +12,15 @@
 .home-info .entry-content {
     font-size: 16px;
 }
+/* 减小首页内容区域的间距 */
+.main {
+    padding: 0px; /* 默认值通常是 40px，这里改小一些 */
+}
+
+.first-entry {
+    margin: 0px 0; /* 减小首个条目的上下间距 */
+}
+
+.post-entry {
+    margin: 20px 0; /* 减小文章条目之间的间距 */
+}

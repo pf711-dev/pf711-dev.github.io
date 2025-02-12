@@ -1,25 +1,9 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (.Date | time.Format "2006-01-02"))) }}
 {{- end }}
 
-{{- if (.Params.ShowReadingTime) -}}
-{{- $readingTime := div (add .WordCount 100) 180 }}
-{{- $scratch.Add "meta" (slice (i18n "read_time" $readingTime | default (printf "%d min" $readingTime))) }}
-{{- end }}
-
-{{- with ($scratch.Get "meta") }}
+{{- with ($scratch.Get "meta")}}
 {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
-{{- end -}}
-
-{{- $tags := .Params.tags }}
-{{- if $tags }}
-<span class="meta-item">
-  <span class="post-tags">
-    {{- range $tags }}
-    <a href='{{ "tags/" | absLangURL }}{{ . | urlize }}/'>{{ . }}</a>
-    {{- end }}
-  </span>
-</span>
 {{- end }}
