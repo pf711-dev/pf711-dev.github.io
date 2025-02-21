@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pf711-dev.github.io/sitemap.xml
