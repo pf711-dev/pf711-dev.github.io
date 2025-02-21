@@ -14,10 +14,10 @@
     <lastBuildDate>Mon, 09 Oct 2023 13:24:48 +0800</lastBuildDate>
     <atom:link href="https://pf711-dev.github.io/tags/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>阅读笔记_《How to Get Things Done》by Robert Benchley</title>
-      <link>https://pf711-dev.github.io/posts/robertbenchleyhowtogetthingsdone/</link>
+      <title>阅读随笔_《How to Get Things Done》by Robert Benchley</title>
+      <link>https://pf711-dev.github.io/posts/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94_how_to_get_things_done_by_robert_benchley/</link>
       <pubDate>Mon, 09 Oct 2023 13:24:48 +0800</pubDate>
-      <guid>https://pf711-dev.github.io/posts/robertbenchleyhowtogetthingsdone/</guid>
+      <guid>https://pf711-dev.github.io/posts/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94_how_to_get_things_done_by_robert_benchley/</guid>
       <description>&lt;p&gt;罗伯特·查尔斯·本奇利（Robert Charles Benchley，1889 年 9 月 15 日 - 1945 年 11 月 21 日）是一位美国幽默作家，以其作为报纸专栏作家和电影演员的工作而闻名。本奇利最令人难忘的是他对《纽约客》的贡献，他的文章，无论是热门的还是荒诞的，都影响了许多现代幽默作家。他还在好莱坞声名鹊起，当时他的短片《如何入睡》大获成功，并在 1935 年奥斯卡金像奖上获得了最佳短片奖。&lt;/p&gt;
 &lt;p&gt;这篇文章他在1930年发表于《芝加哥论坛报》中，谈论如何拥有高效的生产力，传统的GTD思想方法是：列出清单，排列优先级并按照优先级做事，但是执行起来往往会产生抗拒心理，又称为“结构化拖延”。&lt;/p&gt;
 &lt;p&gt;作者从心理学的角度来探讨自己是如何解决这个问题并把事情做好的。&lt;/p&gt;
@@ -46,10 +46,8 @@
 &lt;p&gt;于是，几个小时后，我又回来了，浑身散发着丁香味，干干净净，带着钉子、支架、晚报、饼干和花生酱。吃点东西，浏览一下晚报(里面可能会有些东西，会改变我要写的关于操纵蛇的文章)，很快，书架就竖起来了，虽然有点歪歪斜斜，但还是挺着的，书按字母顺序整齐地排列成一排，随时可以查阅。其中并没有关于如何操纵蛇的书籍，但有一本非常有趣，其中包含了一些霍加斯特的版画，还有一本更加值得仔细研究的，讲述了电影业的发展，其中配有来自著名制作人制作的“剧照”。电影工业真是个了不起的产业。也许我将来会想写一篇关于它的文章。可能不是今天，因为现在已经六点了，还有关于如何操纵蛇的那篇文章需要完成。明天早上准时进行！是的，先生！&lt;/p&gt;
 &lt;p&gt;这样，你看，两天内我已经完成了我要做的四件事，只是假装第五件事是我必须做的。然后，第二天，我解决了另外一些事情，比如拆下书架并将其放到其他地方，然后我完成了第五件事。&lt;/p&gt;
 &lt;p&gt;唯一的问题是，按照这种速度，我很快就会没有事可做了，而如此高效的原因只是因为我把那篇报纸上的文章作为星期一早晨的第一件事。&lt;/p&gt;
-&lt;p&gt;英文链接&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://downwithtyranny.blogspot.com/2010/01/benchley-tonight-how-to-get-things-done.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://downwithtyranny.blogspot.com/2010/01/benchley-tonight-how-to-get-things-done.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;span style=&#34;color: #666666&#34;&gt;&lt;em&gt;备注&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #666666&#34;&gt;&lt;em&gt;- 原文链接：https://downwithtyranny.blogspot.com/2010/01/benchley-tonight-how-to-get-things-done.html&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的任务管理系统</title>
@@ -58,8 +56,8 @@
       <guid>https://pf711-dev.github.io/posts/%E6%88%91%E7%9A%84%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</guid>
       <description>&lt;p&gt;细微之处见端倪。&lt;/p&gt;
 &lt;p&gt;当收集箱中堆满了待办事项的时候，我就意识到，自己的任务管理系统需要升级了。也刚好趁这个机会重新梳理一下，如果你也感兴趣，可以继续往下读，我会从我的个人诉求出发，介绍自己的任务管理系统，包括原则，方法和使用的工具，希望对你有帮助。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;一、个人诉求&lt;/strong&gt;
-一切都是从个人诉求出发，先说说我对任务管理系统的诉求，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一、个人诉求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一切都是从个人诉求出发，先说说我对任务管理系统的诉求，&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;固定化流程。“大脑是用来思考的， 不是用来记忆的”，这个认知对我影响很大，这意味着有一套标准化流程和工具辅助我处理繁杂的任务，同时又能解放大脑非常重要。&lt;/li&gt;
 &lt;li&gt;符合电脑工作者的使用习惯。因为我大部分时间都是在电脑上工作。&lt;/li&gt;
@@ -70,8 +68,8 @@
 &lt;li&gt;尽可能的简单。太复杂的东西阻力总是非常大。&lt;/li&gt;
 &lt;li&gt;能够支持子任务。有些项目会跨越好几天甚至更长时间，更加需要拆解步骤来跟踪。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;二、系统管理系统方法&lt;/strong&gt;
-在个人诉求的基础上，我的任务管理系统主要参考GTD思想（GTD 思想核心流程图我放在文末），并根据自己的实际情况做了一些改动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二、系统管理系统方法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在个人诉求的基础上，我的任务管理系统主要参考GTD思想（GTD 思想核心流程图我放在文末），并根据自己的实际情况做了一些改动。&lt;/p&gt;
 &lt;p&gt;从流程来讲，主要有4个步骤&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;收集
@@ -115,8 +113,8 @@
 &lt;li&gt;每日回顾：会和清空「收集箱」，规划「今日待办」放到一起，都在早上起床后进行，目的也是为了规划出整块时间一起行动，避免事情太分散。&lt;/li&gt;
 &lt;li&gt;每周回顾：会和「每周总结」放到一起处理。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;三、工具&lt;/strong&gt;
-选择什么样的工具没有想象中那么重要，只要能够满足需求并且能坚持下去就行。我个人是使用「飞书任务」，根据上述诉求和原则自己搭建了一套，选择飞书主要是因为和日常工作、日历、文档笔记等保持一致，减少工具的使用，避免太过于分散，这里顺手截了一张图，最喜欢的看板视图。&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;三、工具&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;选择什么样的工具没有想象中那么重要，只要能够满足需求并且能坚持下去就行。我个人是使用「飞书任务」，根据上述诉求和原则自己搭建了一套，选择飞书主要是因为和日常工作、日历、文档笔记等保持一致，减少工具的使用，避免太过于分散，这里顺手截了一张图，最喜欢的看板视图。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

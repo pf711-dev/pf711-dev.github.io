@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>阅读笔记 on Pf711&#39;Blog</title>
+    <link>https://pf711-dev.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 阅读笔记 on Pf711&#39;Blog</description>
+    <image>
+      <title>Pf711&#39;Blog</title>
+      <url>https://pf711-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pf711-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Oct 2023 13:26:49 +0800</lastBuildDate>
+    <atom:link href="https://pf711-dev.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阅读随笔_《You and Your Research》</title>
+      <link>https://pf711-dev.github.io/posts/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94_you_and_your_research/</link>
+      <pubDate>Wed, 04 Oct 2023 13:26:49 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/posts/%E9%98%85%E8%AF%BB%E9%9A%8F%E7%AC%94_you_and_your_research/</guid>
+      <description>&lt;p&gt;今天读完理查德·汉明的个人演讲《You and Your Research》[1]，受益匪浅，于是将书中的主要观点总结出来，形成这篇笔记文章。&lt;/p&gt;
+&lt;p&gt;理查德·汉明是美国著名的数学家，在计算机和通讯方面有巨大的贡献，也许你没听说过他的名字，但可能听说过他的那个著名的“汉明”问题：你关注领域的重大问题是什么？你为什么不解决它？&lt;/p&gt;
+&lt;p&gt;他这次演讲讨论的主要问题是：&lt;strong&gt;为什么只有少数科学家做出极其重要的贡献而被人铭记，而大部分科学家在长期内被逐渐遗忘？&lt;/strong&gt; 尽管是针对科学家群体，但对于我们从事的其他领域也具有借鉴意义。至于这件事为什么这么重要，我觉得可以引用作者的原话：人的生命只有一次，为什么不在这个过程中做一些重要的事情。&lt;/p&gt;
+&lt;p&gt;以下是摘要。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;运气偏爱于有准备的人。伟大科学家的成功不是依靠运气，也许有运气的成分，但最主要的仍然是有准备的头脑，在成功之前，他们就已经对某个重大问题付出了大量的时间和精力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;聪明不是成功的关键因素，因为能够成为科学家的人，智商都不会太低。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;年龄可能也会影响，但也不是关键因素。科学家越早开始研究重要问题越好，但大部分音乐家、政治家和作家，他们最好的工作都是在晚期完成。相反，越早出名也有弊端，当你出名时，很难解决小问题，当你早期获得认可时，功名会让你失去活力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;工作环境条件不是关键因素，相反，人们通常在恶劣条件下更具有生产力。作者举了自己的例子，起初贝尔实验室不会给作者分配编程人员，于是作者开始想要去西海岸在航空公司找一份工作，后来放弃了后者，他认为：既然自己认为计算机是一个重要未来，为什么不自己研究如何利用计算机编程呢？没有分配编程人员，看似是一个问题，但实际上也是一个巨大的机会。但大多数人初次看到时，都只会关注问题而忽略机会。伟大的科学家都具有将问题转化为机会的能力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;伟大的科学家在年轻时具有独立思想并有勇气去追求它们，这需要自主性，热情以及在面对困境时不停下来的决心。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;相信复利。知识和生产力就像是复利，如果两个能力相同的人，后者比前者每天多工作10%，那么他的产出将会是前者的两倍以上。同理，争取每天比其他人多思考一个小时，也会大大提高生产力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;正确的方向非常重要，持续的努力再加上超过他人的一点点勤奋，并将这些应用在解决正确问题的方向上。如果选错了方向，所有的付出都是徒劳，只会离目标越来越远。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;伟大的科学家都容忍一定程度的模糊性。世界非黑即白这种理论不适用于科学家，一定程度上的相信能够让你开始并继续下去，而保持怀疑心态，则能够让你有机会发现重大问题。因此，管理自己的一个很好的方法就是，当你发现一个重大问题时，不要让其他事分心，让潜意识保持思考，最终的结果，用作者的话说就是：“这样你就可以实现安心的睡觉，早上免费得到答案。”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;拥有好的问题品味非常重要，好的问题品味意味着解决重大问题，就像是计算机刚出现时会带来的影响一样。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;善于捕捉机会。每个科学家头脑中都会有10～20个重要问题，但当某个问题的时机成熟时，伟大的科学家能够敏锐的抓住它，并且暂时放弃其它问题的研究，专注于这一个重要问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开着门工作。尽管关着门工作的人生产力更高，但是开着门工作的人发现重大问题的几率会提高，多和优秀的人交流思想。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;仅仅做一份工作是不够的，还要学会推销它。世界很大，每个人都在忙于自己的工作，因此你必须很好的将你的工作成果表现出来，这样当他们读到的时候，才会停下来，认真的读完。伟大的科学家在销售时，有3件重要的事情：1. 写作必须清晰明了，以方便人们阅读。2. 必须学会相当正式的演讲。3. 必须学会非正式的演讲。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如何选择做管理还是科学研究。重要的在于解决问题的大小，当一个问题依靠个人研究可以解决时，选择科学研究，当一个问题大到一个人无法解决，而不得不借助群体的力量时，则选择走上管理的道路。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最后，我将其中的最关键的3个因素抽离出来，形成了一个公式：成功  =  独立思考 + 决心 +  勤奋 ，以供参考。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #666666&#34;&gt;&lt;em&gt;备注&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #666666&#34;&gt;&lt;em&gt;[1] 《You and  Your Research》：https://www.cs.virginia.edu/~robins/YouAndYourResearch.html&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
