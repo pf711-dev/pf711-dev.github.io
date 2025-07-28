@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on pf711&#39;Blog</title>
+    <link>https://pf711-dev.github.io/categories/</link>
+    <description>Recent content in Categories on pf711&#39;Blog</description>
+    <image>
+      <title>pf711&#39;Blog</title>
+      <url>https://pf711-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pf711-dev.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Mar 2025 17:32:45 +0800</lastBuildDate>
+    <atom:link href="https://pf711-dev.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>方法论</title>
+      <link>https://pf711-dev.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</link>
+      <pubDate>Mon, 03 Mar 2025 17:32:45 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>读书</title>
+      <link>https://pf711-dev.github.io/categories/%E8%AF%BB%E4%B9%A6/</link>
+      <pubDate>Sun, 29 Dec 2024 18:17:13 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/categories/%E8%AF%BB%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>思考</title>
+      <link>https://pf711-dev.github.io/categories/%E6%80%9D%E8%80%83/</link>
+      <pubDate>Sun, 07 Apr 2024 12:50:16 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/categories/%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
