@@ -9,7 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
         { src: '/images/vibes/simple.jpeg', caption: '' },
         { src: '/images/vibes/paulgraham.jpeg', caption: '@paulgraham' },
         { src: '/images/vibes/steve-jobs.jpg', caption: '' },
-        { src: '/images/vibes/ghhardy.jpg', caption: '' }
+        { src: '/images/vibes/ghhardy.jpg', caption: '' },
+        { src: '/images/vibes/why-how-what.jpg', caption: '@SimonSinek' },
+        { src: '/images/vibes/habit.jpg', caption: '@jamesclear' }
         // 可以根据需要添加更多图片
     ];
 
