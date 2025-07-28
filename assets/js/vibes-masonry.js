@@ -5,7 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
         { src: '/images/vibes/do-it-do-it-right-do-it-better.png', caption: '' },
         { src: '/images/vibes/willpower-habits.jpg', caption: '' },
         { src: '/images/vibes/Andrej-Karpathy.png', caption: '' },
-        { src: '/images/vibes/how-to-create-luck.png', caption: '@swyx' }
+        { src: '/images/vibes/how-to-create-luck.png', caption: '@swyx' },
+        { src: '/images/vibes/simple.jpeg', caption: '' },
+        { src: '/images/vibes/paulgraham.jpeg', caption: '@paulgraham' },
+        { src: '/images/vibes/steve-jobs.jpg', caption: '' }
         // 可以根据需要添加更多图片
     ];
 
