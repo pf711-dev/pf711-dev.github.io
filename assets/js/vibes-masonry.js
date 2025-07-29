@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
         { src: '/images/vibes/steve-jobs.jpg', caption: '' },
         { src: '/images/vibes/ghhardy.jpg', caption: '' },
         { src: '/images/vibes/why-how-what.jpg', caption: '@SimonSinek' },
-        { src: '/images/vibes/habit.jpg', caption: '@jamesclear' }
+        { src: '/images/vibes/habit.jpg', caption: '@jamesclear' },
+        { src: '/images/vibes/write-space.png', caption: '@Paul J. Silvia' }
         // 可以根据需要添加更多图片
     ];
 
