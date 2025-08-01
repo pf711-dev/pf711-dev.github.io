@@ -11,8 +11,47 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 May 2025 21:36:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 16:50:06 +0800</lastBuildDate>
     <atom:link href="https://pf711-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我 vibe coding 的小项目</title>
+      <link>https://pf711-dev.github.io/posts/%E6%88%91vibe-coding%E7%9A%84%E5%B0%8F%E9%A1%B9%E7%9B%AE/</link>
+      <pubDate>Fri, 01 Aug 2025 16:50:06 +0800</pubDate>
+      <guid>https://pf711-dev.github.io/posts/%E6%88%91vibe-coding%E7%9A%84%E5%B0%8F%E9%A1%B9%E7%9B%AE/</guid>
+      <description>&lt;p&gt;最近 2 个月，我一直在学习使用 AI 编程工具来做一些小项目，主要是解决自己平时遇到的问题。大大小小的项目尝试了十几个，各种 AI 编程工具也都体验了一遍。&lt;/p&gt;
+&lt;p&gt;今天主要分享几个可能也会对你有用的小工具。&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1. 苹果备忘录导出&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我在苹果备忘录记录了很多笔记，后来我准备迁移到 obsidian，但发现没有很好的导出工具。&lt;/p&gt;
+&lt;p&gt;于是我询问 gemini，它帮我写了一个脚本，可以选择导出的文件夹并导出笔记为.txt。再结合 Mac 自带的脚本编辑器和自动操作功能，让这个插件直接嵌入在了应用菜单栏。在此之前，我从来没有用到过脚本编辑器和自动操作这两个应用。&lt;/p&gt;
+&lt;p&gt;后来我用同样的方法写了非常多的脚本，比如 pdf 转 markdown，docx 转 markdown&amp;hellip;非常实用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;我的照片&#34; loading=&#34;lazy&#34; src=&#34;https://pf711-dev.github.io/images/posts/2024-01/apple-notes-export.png&#34;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2. 飞书文档评论导出助手&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我平时主要用飞书文档来做知识库管理，其中包含了大量的剪藏长文章，微信读书导出的读书笔记等&amp;hellip;而且我习惯了用飞书文档评论功能来进行批注。&lt;/p&gt;
+&lt;p&gt;当我想要将批注的内容汇总起来作为一个摘要时发现没有很好的实现方法，只能手动一条一条的复制粘贴，非常麻烦。于是我用 cursor 写了这个浏览器插件，可以一键将飞书文档评论内容复制到粘贴板。
+&lt;img alt=&#34;我的照片&#34; loading=&#34;lazy&#34; src=&#34;https://pf711-dev.github.io/images/posts/2024-01/feishu-export.png&#34;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;3.  Microsoft To Do 扩展&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我平时主要用微软的 Microsoft To Do 来管理待办事项，但大部分时间我都在浏览器端工作。每次有新想法的时候，总是需要切换打开待办事项客户端来记录，有些麻烦。于是我用 cursor 做了这个浏览器插件，只需要登录一次后，它可以快速的同步，添加和管理待办事项任务。&lt;/p&gt;
+&lt;p&gt;自从用了它之后，记录了很多灵感。每次在浏览器上完成任务之后，也顺手勾掉了任务，效率提高了不少。
+&lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
+&lt;source src=&#34;https://pf711-dev.github.io/videos/microsoft-to-do.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;4. vibe images&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我受一个博主的启发，给自己的博客增加了一个 vibe images 功能，它是一个图片墙，我收集了一些有趣的图片，并将它们以瀑布流的形式展示出来，效果看起来挺不错。
+&lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
+&lt;source src=&#34;https://pf711-dev.github.io/videos/vibe-images.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;在整个 vibe coding 过程中，我用到的工具主要是 cursor 和 gemini cli。我发现，AI 编程工具在解决这些日常小问题的过程中非常有用，虽然在整个过程中也会有一些让人抓狂的时刻，但整个过程和写作一样，非常容易进入到心流状态。&lt;/p&gt;
+&lt;p&gt;如果这些工具对你有用，也可以试试看。&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span style=&#34;color: gray&#34;&gt;&lt;em&gt;备注&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&#34;color: gray&#34;&gt;苹果备忘录导出脚本：https://github.com/pf711-dev/share/blob/master/applenotes_export.scpt &lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Scott Adams：如何创造运气</title>
       <link>https://pf711-dev.github.io/posts/scottadams_%E5%A6%82%E4%BD%95%E5%88%9B%E9%80%A0%E8%BF%90%E6%B0%94/</link>
