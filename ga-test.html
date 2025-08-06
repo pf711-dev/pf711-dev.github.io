@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GA 测试 - 简化版</title>
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7VJCRNLF6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        
+        console.log('🚀 开始加载 Google Analytics...');
+        
+        gtag('config', 'G-S7VJCRNLF6', {
+            debug_mode: true,
+            send_page_view: true
+        });
+        
+        console.log('✅ Google Analytics 配置完成');
+        
+        // 检查 gtag 是否可用
+        setTimeout(() => {
+            if (typeof gtag === 'function') {
+                console.log('✅ gtag 函数可用');
+                console.log('📋 dataLayer:', window.dataLayer);
+                
+                // 发送测试事件
+                gtag('event', 'test_page_load', {
+                    event_category: 'test',
+                    event_label: 'manual_test',
+                    value: 1
+                });
+                console.log('📤 测试事件已发送');
+            } else {
+                console.error('❌ gtag 函数不可用');
+            }
+        }, 2000);
+    </script>
+</head>
+<body>
+    <h1>Google Analytics 测试页面</h1>
+    <p>这是一个简化的测试页面，用于验证 Google Analytics 是否正常工作。</p>
+    
+    <div style="margin: 20px 0;">
+        <button onclick="sendCustomEvent()">发送自定义事件</button>
+        <button onclick="checkGA()">检查 GA 状态</button>
+    </div>
+    
+    <div id="status" style="margin-top: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px;">
+        <h3>状态信息：</h3>
+        <div id="statusContent">正在检查...</div>
+    </div>
+    
+    <script>
+        function sendCustomEvent() {
+            if (typeof gtag === 'function') {
+                gtag('event', 'button_click', {
+                    event_category: 'engagement',
+                    event_label: 'custom_test_button',
+                    value: 1
+                });
+                console.log('🎯 自定义事件已发送');
+                updateStatus('✅ 自定义事件已发送');
+            } else {
+                console.error('❌ gtag 不可用');
+                updateStatus('❌ gtag 不可用');
+            }
+        }
+        
+        function checkGA() {
+            const status = [];
+            
+            // 检查 gtag 函数
+            if (typeof gtag === 'function') {
+                status.push('✅ gtag 函数：可用');
+            } else {
+                status.push('❌ gtag 函数：不可用');
+            }
+            
+            // 检查 dataLayer
+            if (window.dataLayer && window.dataLayer.length > 0) {
+                status.push(`✅ dataLayer：已初始化 (${window.dataLayer.length} 项)`);
+            } else {
+                status.push('❌ dataLayer：未初始化或为空');
+            }
+            
+            // 检查 GA 脚本
+            const gaScript = document.querySelector('script[src*="googletagmanager.com"]');
+            if (gaScript) {
+                status.push('✅ GA 脚本：已加载');
+            } else {
+                status.push('❌ GA 脚本：未找到');
+            }
+            
+            updateStatus(status.join('<br>'));
+            console.log('📊 GA 状态检查完成:', status);
+        }
+        
+        function updateStatus(message) {
+            document.getElementById('statusContent').innerHTML = message;
+        }
+        
+        // 页面加载完成后自动检查
+        window.addEventListener('load', () => {
+            setTimeout(checkGA, 3000);
+        });
+    </script>
+</body>
+</html>

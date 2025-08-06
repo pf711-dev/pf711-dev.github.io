@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Analytics 测试页面</title>
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7VJCRNLF6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'G-S7VJCRNLF6', {
+        page_title: 'GA测试页面',
+        page_location: window.location.href,
+        debug_mode: true
+      });
+      
+      console.log('Google Analytics 测试页面已加载');
+      
+      // 发送一个测试事件
+      setTimeout(() => {
+        gtag('event', 'test_event', {
+          event_category: 'engagement',
+          event_label: 'manual_test',
+          value: 1
+        });
+        console.log('测试事件已发送');
+      }, 2000);
+    </script>
+</head>
+<body>
+    <h1>Google Analytics 测试页面</h1>
+    <p>这是一个用于测试 Google Analytics 的独立页面。</p>
+    <p>请打开浏览器开发者工具查看控制台输出和网络请求。</p>
+    
+    <button onclick="sendTestEvent()">发送测试事件</button>
+    
+    <script>
+    function sendTestEvent() {
+        gtag('event', 'button_click', {
+            event_category: 'engagement',
+            event_label: 'test_button',
+            value: 1
+        });
+        console.log('按钮点击事件已发送');
+        alert('测试事件已发送，请查看控制台');
+    }
+    </script>
+</body>
+</html>
